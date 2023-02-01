@@ -1,0 +1,15 @@
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\obj\Debug\net6.0\Sixth_HW.csproj.AssemblyReference.cache
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\obj\Debug\net6.0\Sixth_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\obj\Debug\net6.0\Sixth_HW.AssemblyInfoInputs.cache
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\obj\Debug\net6.0\Sixth_HW.AssemblyInfo.cs
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\obj\Debug\net6.0\Sixth_HW.csproj.CoreCompileInputs.cache
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\bin\Debug\net6.0\Sixth_HW.exe
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\bin\Debug\net6.0\Sixth_HW.deps.json
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\bin\Debug\net6.0\Sixth_HW.runtimeconfig.json
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\bin\Debug\net6.0\Sixth_HW.dll
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\bin\Debug\net6.0\Sixth_HW.pdb
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\obj\Debug\net6.0\Sixth_HW.dll
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\obj\Debug\net6.0\refint\Sixth_HW.dll
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\obj\Debug\net6.0\Sixth_HW.pdb
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\obj\Debug\net6.0\Sixth_HW.genruntimeconfig.cache
+C:\Users\79213\Desktop\Lebedev_HW\Sixth_HW\obj\Debug\net6.0\ref\Sixth_HW.dll
