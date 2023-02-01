@@ -25,19 +25,19 @@ Console.WriteLine($"The quantity of positive numbers is equal to { count }");
  the values b1, k1, b2 and k2 are set by the user.
  */
 
-/*
+
  double k1, b1, k2, b2, x, y;
 
-Console.WriteLine("Введите коэффициент k1: ");
+Console.WriteLine("Input the coefficient k1: ");
 k1 = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите свободный член b1: ");
+Console.WriteLine("Input the free coefficient b1: ");
 b1 = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите коэффициент k2: ");
+Console.WriteLine("Input the coefficient k2: ");
 k2 = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите свободный член b2: ");
+Console.WriteLine("Input the free coefficient b2: ");
 b2 = Convert.ToInt32(Console.ReadLine());
 if (k1 == k2 && b1 != b2)
 {
@@ -56,7 +56,6 @@ else if (k1 != k2 && b1 != b2)
         x = (b2 - b1) / (k1 - k2);
         y = k1 * x + b1;
 
-Console.WriteLine("Точка пересечения двух прямых: (" + x + "," + y + ")");
+Console.WriteLine("The point of intersection of two straight lines: (" + x + "," + y + ")");
 }
 
-*/
